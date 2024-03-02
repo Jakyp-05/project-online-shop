@@ -1,8 +1,11 @@
 import React from 'react'
+import CardNow from '../ui/cardNow/CardNow'
 
 function Home() {
   return (
-    <div>Home</div>
+    <div>
+      jj
+    </div>
   )
 }
 
